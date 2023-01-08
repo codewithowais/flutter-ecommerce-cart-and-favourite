@@ -1,0 +1,16 @@
+List<Map> products = [
+  {'id': 1, 'name': 'airbuds', 'price': 5000, 'isfavourite': false},
+  {'id': 2, 'name': 'headphones', 'price': 4220, 'isfavourite': false},
+  {'id': 3, 'name': 'mobile', 'price': 54882, 'isfavourite': false},
+  {'id': 4, 'name': 'charger', 'price': 754, 'isfavourite': false},
+  {'id': 5, 'name': 'Datacable', 'price': 565, 'isfavourite': false},
+  {'id': 6, 'name': 'Mouse', 'price': 200, 'isfavourite': false},
+  {'id': 7, 'name': 'Battery', 'price': 500, 'isfavourite': false},
+  {'id': 1, 'name': 'airbuds', 'price': 5000, 'isfavourite': false},
+  {'id': 2, 'name': 'headphones', 'price': 4220, 'isfavourite': false},
+  {'id': 3, 'name': 'mobile', 'price': 54882, 'isfavourite': false},
+  {'id': 4, 'name': 'charger', 'price': 754, 'isfavourite': false},
+  {'id': 5, 'name': 'Datacable', 'price': 565, 'isfavourite': false},
+  {'id': 6, 'name': 'Mouse', 'price': 200, 'isfavourite': false},
+  {'id': 7, 'name': 'Battery', 'price': 500, 'isfavourite': false},
+];
